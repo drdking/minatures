@@ -1,0 +1,2 @@
+# minatures
+Mini project
